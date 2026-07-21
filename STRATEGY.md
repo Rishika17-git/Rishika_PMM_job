@@ -13,7 +13,7 @@
 | Rank | Channel | Why | Link |
 |---|---|---|---|
 | 1 | VC portfolio talent networks | Curated to funded, growth-stage startups; often a senior marketing hire already exists; sometimes warm-intro assisted | [Sequoia](https://jobs.sequoiacap.com/jobs/?jobTypes=Product+Marketing) · [Accel](https://jobs.accel.com/jobs) · [Lightspeed](https://jobs.lsvp.com/jobs) |
-| 2 | Reverse-engineer from senior PMMs | Find PMM leaders via PMA/Sharebird content, podcasts, LinkedIn posts → see where they work / who they're hiring under them. Directly targets "mentor exists" | Sharebird, PMA hiring board |
+| 2 | Reverse-engineer from senior PMMs | Find PMM leaders via PMA/Sharebird content, podcasts, LinkedIn posts → see where they work / who they're hiring under them. Directly targets "mentor exists" | [Sharebird Top 100 PMM Mentors](https://sharebird.com/list/product-marketing/mentorlist/2026), PMA hiring board |
 | 3 | PMM-specific communities | Product Marketing Alliance + Sharebird: jobs *and* the people. Lower-friction to ask for informational chats here than cold LinkedIn | [PMA hiring board](https://www.productmarketingalliance.com/hiring-board/) · [PMA jobs](https://jobs.productmarketingalliance.com/) · [Sharebird jobs](https://sharebird.com/jobs) |
 | 4 | Wellfound (AngelList) | Startup-only marketplace, filter by stage/team size, apply direct to founders | [PMM roles](https://wellfound.com/role/product-marketing-manager) · [Marketing roles](https://wellfound.com/role/marketing) |
 | 5 | YC Work at a Startup | 1,000+ funded startups, founders reach out directly, good stage filter | [workatastartup.com](https://www.workatastartup.com/jobs/l/marketing) · [YC marketing jobs](https://www.ycombinator.com/jobs/role/marketing) |
