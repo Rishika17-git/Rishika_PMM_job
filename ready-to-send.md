@@ -8,12 +8,12 @@ Apply directly + LinkedIn note to the hiring manager once you find them on the t
 > Applying for the Product Marketing Associate role. I've spent the last 2+ years as the sole PMM for Quikit, a modular B2B SaaS suite (CRM/HRMS/PMS), owning positioning, pricing, and GTM end-to-end — including a category repositioning that fed into a 20% lift in user adoption. What draws me to Chainalysis specifically is the chance to do this alongside an experienced PMM team instead of being the only one figuring it out. Resume attached — happy to walk through the repositioning work on a call.
 
 ## 2. NexHealth — Product Marketing Manager (SaaS PMM), via Wellfound
-First: confirm the current Head of Marketing/PMM lead on LinkedIn (page mentions Courtney Rogers held this role — verify it's still current before naming anyone).
+Current CMO's first name is **Jessie** (ex-SVP Marketing/Growth at RSAC, ~6 yrs leading global marketing at Udemy through IPO) — surname not confirmed from search. Find her on LinkedIn (NexHealth CMO) before sending; do not guess the surname.
 
 > Hi [Name] — NexHealth's PMM opening caught my eye. I've run PMM solo for 2+ years at a modular B2B SaaS suite (Quikit) — positioning, pricing, GTM, lifecycle messaging — and drove a 20% adoption lift off a category repositioning I led end-to-end. I'm looking for exactly this kind of next move: real ownership, but alongside an experienced marketing lead rather than building the function alone again. Would love to talk about the role.
 
 ## 3. ACTO — Associate Product Marketing Manager, growth-stage SaaS (via PMA)
-Verify team structure on LinkedIn first — flagged as "unconfirmed" senior-PMM signal in the tracker.
+CMO is **Alison Muller** (per Salesforce Ventures' portfolio page for acto.com, a Salesforce Ventures-backed life sciences platform). Caution: at least 3-4 unrelated companies share the "ACTO" name (a German pharma co, a Brazil IT services co, "Act-On" marketing automation) — confirm the PMA posting is for acto.com before addressing Alison Muller by name.
 
 > Applying for the Associate Product Marketing Manager role at ACTO. Quick background: 2+ years as the sole PMM for a modular B2B SaaS suite (Quikit/MoreYeahs) — owned positioning, pricing/packaging, and GTM across four product lines, and led a repositioning that contributed to a 20% adoption lift. I'm specifically looking for a team with an experienced PMM already in place — I've built the solo-ownership muscle, now want to sharpen it with someone more senior in the room. Resume attached.
 
