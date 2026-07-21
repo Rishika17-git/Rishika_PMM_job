@@ -17,6 +17,11 @@ CMO is **Alison Muller** (per Salesforce Ventures' portfolio page for acto.com, 
 
 > Applying for the Associate Product Marketing Manager role at ACTO. Quick background: 2+ years as the sole PMM for a modular B2B SaaS suite (Quikit/MoreYeahs) — owned positioning, pricing/packaging, and GTM across four product lines, and led a repositioning that contributed to a 20% adoption lift. I'm specifically looking for a team with an experienced PMM already in place — I've built the solo-ownership muscle, now want to sharpen it with someone more senior in the room. Resume attached.
 
+## 4. Lexion — Associate Product Marketing Manager, a16z-backed (contract AI/legal tech)
+Reports directly to **Paxton Wiers, Senior Product Marketing Manager** — this is stated in the posting itself, the clearest confirmed mentor structure found across all leads so far. Find Paxton on LinkedIn and send a connection note alongside applying.
+
+> Hi Paxton — applying for the Associate Product Marketing Manager role at Lexion. I've spent 2+ years as the sole PMM for a modular B2B SaaS suite (Quikit) — owning positioning, pricing, and GTM end-to-end, including a repositioning that drove a 20% adoption lift. What drew me to this specific role is reporting into an existing Senior PMM rather than building the function alone again — I've done the solo version, now want to sharpen it alongside someone more senior. Resume attached, happy to walk through the repositioning work.
+
 ---
 
 **Next 3 after these** (same personalization pattern, swap the "why this company" line): NexHealth done above; then Bumble (Associate Director — flagged as a stretch given her ~2-3 yrs total experience vs. what "Associate Director" usually requires, worth a shot but don't over-invest time here first), ESRI, Pokémon Company International, VivaCity.
